@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+ultralytics
+transformers
+torch
+Pillow
+word2number
+python-multipart

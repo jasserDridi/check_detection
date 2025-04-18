@@ -1,0 +1,36 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: #f4f4f9;
+  color: #333;
+}
+
+.container {
+  background: white;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 0 20px rgba(0,0,0,0.1);
+  max-width: 900px;
+  margin: auto;
+}
+
+h1 {
+  font-size: 2.5rem;
+}
+
+button {
+  font-size: 16px;
+}
+
+table img {
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.modal-body ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.modal-body li {
+  font-size: 1.1rem;
+}
